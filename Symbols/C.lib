@@ -1,0 +1,70 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# C_100n_100V_X7R_10%_SMD1206
+#
+DEF ~C_100n_100V_X7R_10%_SMD1206 C 0 0 N N 1 F N
+F0 "C" 150 100 50 H V C CNN
+F1 "C_100n_100V_X7R_10%_SMD1206" 0 400 50 H I C CNN
+F2 "C:C_SMD1206" 0 300 50 H I C CNN
+F3 "http://www.tme.eu/pl/Document/830839a87de5e04c10834451b6d63a94/CL31B104KCFNNNE-DTE.pdf" 0 600 50 H I C CNN
+F4 "http://www.tme.eu/pl/details/cl31b104kcfnnne/kondensatory-mlcc-smd-1206/samsung/" 0 500 50 H I C CNN "TME"
+F5 "100n" 200 -50 50 H V C CNN "Capacitance"
+F6 "100V" 200 -150 50 H V C CNN "Maximum voltage"
+F7 "10%" 200 -250 50 H V C CNN "Tolerance"
+DRAW
+P 2 0 1 10  -75 -25  75 -25 N
+P 2 0 1 10  -75 25  75 25 N
+P 2 0 1 0  0 -50  0 -25 N
+P 2 0 1 0  0 50  0 25 N
+P 2 0 1 0  75 -25  75 -25 N
+X ~ 1 0 150 100 D 40 40 1 1 P
+X ~ 2 0 -150 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# C_10u_25V_X5R_10%_SMD1206
+#
+DEF ~C_10u_25V_X5R_10%_SMD1206 C 0 0 N N 1 F N
+F0 "C" 150 100 50 H V C CNN
+F1 "C_10u_25V_X5R_10%_SMD1206" 0 400 50 H I C CNN
+F2 "C:C_SMD1206" 0 300 50 H I C CNN
+F3 "http://www.tme.eu/pl/Document/4a42202b32dab16128fe107dd69598cc/samsung-chip-cap.pdf" 0 600 50 H I C CNN
+F4 "http://www.tme.eu/pl/details/cl31a106kahnnne/kondensatory-mlcc-smd-1206/samsung/" 0 500 50 H I C CNN "TME"
+F5 "10u" 200 -50 50 H V C CNN "Capacitance"
+F6 "25V" 200 -150 50 H V C CNN "Maximum voltage"
+F7 "10%" 200 -250 50 H V C CNN "Tolerance"
+DRAW
+P 2 0 1 10  -75 -25  75 -25 N
+P 2 0 1 10  -75 25  75 25 N
+P 2 0 1 0  0 -50  0 -25 N
+P 2 0 1 0  0 50  0 25 N
+P 2 0 1 0  75 -25  75 -25 N
+X ~ 1 0 150 100 D 40 40 1 1 P
+X ~ 2 0 -150 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# C_1u_25V_X7R_10%_SMD1206
+#
+DEF ~C_1u_25V_X7R_10%_SMD1206 C 0 0 N N 1 F N
+F0 "C" 150 100 50 H V C CNN
+F1 "C_1u_25V_X7R_10%_SMD1206" 0 400 50 H I C CNN
+F2 "C:C_SMD1206" 0 300 50 H I C CNN
+F3 "http://www.tme.eu/pl/Document/7da762c1dbaf553c64ad9c40d3603826/mlcc_samsung.pdf" 0 600 50 H I C CNN
+F4 "http://www.tme.eu/pl/details/cl31b105kahnnne/kondensatory-mlcc-smd-1206/samsung/" 0 500 50 H I C CNN "TME"
+F5 "1u" 200 -50 50 H V C CNN "Capacitance"
+F6 "25V" 200 -150 50 H V C CNN "Maximum voltage"
+F7 "10%" 200 -250 50 H V C CNN "Tolerance"
+DRAW
+P 2 0 1 10  -75 -25  75 -25 N
+P 2 0 1 10  -75 25  75 25 N
+P 2 0 1 0  0 -50  0 -25 N
+P 2 0 1 0  0 50  0 25 N
+P 2 0 1 0  75 -25  75 -25 N
+X ~ 1 0 150 100 D 40 40 1 1 P
+X ~ 2 0 -150 100 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
