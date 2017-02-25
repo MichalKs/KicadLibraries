@@ -4,4 +4,8 @@ $CMP MCP1640CT-I/CHY
 D Boost converter
 $ENDCMP
 #
+$CMP STM32F030CCT6
+D STM32 32-bit microcontroller
+$ENDCMP
+#
 #End Doc Library
